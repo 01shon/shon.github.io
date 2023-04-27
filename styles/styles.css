@@ -5,6 +5,11 @@ body {
     font-size: 18px;
     line-height: 1.5;
   }
+
+  body {
+    background-image: url('images/FrJJ7j1XgAAgARF.png');
+    background-size: cover;
+  }
   
   header {
     background-image: url("header-bg.jpg");
